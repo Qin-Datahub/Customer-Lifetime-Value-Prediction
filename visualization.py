@@ -15,7 +15,7 @@ st.markdown("""
             * Empower your team with the tools they need to maximize customer value and drive profitability. 
             """)
 st.markdown("You can find the source code in my [GitHub Repository](https://github.com/opal-1996)")
-st.markdown("If you are seeking additional content pertaining to data science, I invite you to peruse my personal blog - [Qin's DataHub]()")
+st.markdown("If you are seeking additional content pertaining to data science, I invite you to peruse my personal blog - [Qin's DataHub](https://qinyang.hashnode.dev/)")
 
 
 # Data overview
