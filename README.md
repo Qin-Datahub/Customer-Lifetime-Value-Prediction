@@ -9,7 +9,7 @@ This repo contains code and resources for predicting the Customer Lifetime Value
 
 To utilize this Customer Lifetime Value Prediction project, follow these steps:
 
-* Clone the Repository: Begin by cloning this repository to your local machine using the following command: `git clone https://github.com/your-username/your-repo-name.git`
+* Clone the Repository: Begin by cloning this repository to your local machine using the following command: `git clone https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction.git`
 
 * Install Dependencies: Navigate to the project directory and install the required dependencies using the requirements.txt file: `pip install -r requirements.txt`
 
